@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'MAMA BICHO'
+theme = "hugo-theme-relearn-main"
