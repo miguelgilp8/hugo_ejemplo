@@ -1,4 +1,4 @@
-baseURL = 'https://miguelgilp8.github.io/hugo/'
+baseURL = 'https://miguelgilp8.github.io/hugo_ejemplo/'
 languageCode = 'en-us'
 title = 'MAMA BICHO'
 theme = "hugo-theme-relearn-main"
